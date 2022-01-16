@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "My personal website"
+subtitle: Personal blog to share my projects, article and resume
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
